@@ -25,7 +25,7 @@ function Footer() {
               </ul>
             </div>
             <div >
-              <small>© Your Website 2023. All Rights Reserved.</small>
+              <small>© Your Website 2024. All Rights Reserved.</small>
             </div>
           </Stack>
         </Col>
